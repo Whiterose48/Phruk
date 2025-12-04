@@ -19,7 +19,7 @@
   <br/>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,docker,python,C,aws&perline=9" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,docker,aws&perline=9" />
   </a>
 
   <br/><br/>
