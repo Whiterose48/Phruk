@@ -10,21 +10,31 @@
 
 <div align="center">
 
-  ### 🚀 About Me
+  ### 🛠️ Tech Stack & Arsenal
   
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **I'm Phruk**, Programmer from Thailand.
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,html,css,js,ts,react,svelte,tailwind&perline=9" />
+  </a>
+  
   <br/>
 
-  ---
-
-  ### 🛠️ Tech Stack & Tools
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,python,django,nodejs,express,mysql,postgres,mongodb,firebase,git,github,docker,aws,vscode,figma,ps,ai&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,firebase,docker,aws,linux&perline=9" />
   </a>
 
-  <br /><br />
+  <br/><br/>
 
-  ---
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Cyber%20Security-Network%20%26%20Defense-2c3e50?style=for-the-badge&logo=kalilinux&logoColor=white" />
 
 </div>
 
