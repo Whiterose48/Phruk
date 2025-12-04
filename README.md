@@ -27,22 +27,6 @@
 
   ---
 
-  ### 📊 GitHub Stats (Auto Update)
-  <div align="center">
-    <a href="https://github.com/Whiterose48">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Whiterose48&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whiterose48&layout=compact&theme=radical&langs_count=8"/>
-    </a>
-  </div>
-
-  <br />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Whiterose48&theme=react-dark" width="100%"/>
-
-  <br />
-  
-  <img src="https://raw.githubusercontent.com/Whiterose48/Whiterose48/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
 </div>
 
 <div align="center">
