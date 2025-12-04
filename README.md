@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I+Build+Cool+Stuff;Welcome+to+my+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi!+%F0%9F%91%8B;สวัสดี!;こんにちは!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,9 +12,8 @@
 
   ### 🚀 About Me
   
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **I'm Phruk**, a passionate developer from Thailand.
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **I'm Phruk**, Programmer from Thailand.
   <br/>
-  I love turning complex problems into beautiful code.
 
   ---
 
